@@ -1,6 +1,6 @@
 # Fashion AI
 
-This project was developed by 5 students in colman for the final DL project.
+This project was developed by 5 students at Colman for the final DL project.
 
 ## Installation
 
