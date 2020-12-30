@@ -6,7 +6,7 @@ This project was developed by 5 students in colman for the final DL project.
 
 ### Client side
 
-### `yarn install`
+#### `yarn install`
 ### `yarn start`
 
 or 
